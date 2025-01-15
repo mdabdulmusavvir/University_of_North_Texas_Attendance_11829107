@@ -26,13 +26,13 @@ def send_email():
     receiver_email = "......@my.unt.edu"  # Replace with professor's email
     if CurrentDay=="Thursday":
         subject = f"Attendance CSV File Data Analytics - {d1}"
-        body = f"Dear Professor Penn,\n\nAttached is the attendance CSV file for the class Data Analytics 1 and date - {d1}.\n\nBest regards,\n\nYour Student\n Abdul Musavvir Mohammed\nAbdulmusavvirmohammed@my.unt.edu\n11829107"
+        body = f"Dear Professor ,\n\nAttached is the attendance CSV file for the class Data Analytics 1 and date - {d1}.\n\nBest regards,\n\nYour Student\n Abdul Musavvir Mohammed\nreceiveremail@gmail.com\n11829107"
     elif CurrentDay=="Tuesday":
         subject = f"Attendance CSV File Large Data Visualization - {d1}"
-        body = f"Dear Professor Penn,\n\nAttached is the attendance CSV file for the class Large Data Visualization and date - {d1}.\n\nBest regards,\n\nYour Student\n Abdul Musavvir Mohammed\nAbdulmusavvirmohammed@my.unt.edu\n11829107"
+        body = f"Dear Professor ,\n\nAttached is the attendance CSV file for the class Large Data Visualization and date - {d1}.\n\nBest regards,\n\nYour Student\n Abdul Musavvir Mohammed\nreceiveremail@gmail.com\n11829107"
     else:
         subject = f"Attendance CSV File - {d1}"
-        body = f"Dear Professor Penn,\n\nAttached is the attendance CSV file for the date - {d1}.\n\nBest regards,\n\nYour Student\n Abdul Musavvir Mohammed\nAbdulmusavvirmohammed@my.unt.edu\n11829107"
+        body = f"Dear Professor,\n\nAttached is the attendance CSV file for the date - {d1}.\n\nBest regards,\n\nYour Student\n Abdul Musavvir Mohammed\nreceiveremail@gmail.com\n11829107"
 
     # Create the email message
     msg = MIMEMultipart()
