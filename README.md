@@ -7,19 +7,18 @@ How it works<br>
 <br>
 2. Camera will be pop and it takes around 5-6 seconds<br><br>
 ![second_camerapopup](https://github.com/mdabdulmusavvir/University_of_North_Texas_Attendance_11829107/blob/950d389988e6a848394e60da3346caefaa6ef12f/second_camerapopup.png)
-
 <br>
 3. If the image of the person is there in the database then it will match the face encodings and display the name of the person in front of the camera<br><br>
-![image_url](https://github.com/mdabdulmusavvir/University_of_North_Texas_Attendance_11829107/blob/main/third_recognizingandprintingthename.png?raw=true)
+![image_url](https://github.com/mdabdulmusavvir/University_of_North_Texas_Attendance_11829107/blob/950d389988e6a848394e60da3346caefaa6ef12f/third_recognizingandprintingthename.png)
 <br>
 4. This person is not there in the database and it shows unknown person<br><br>
-![fourth_Unkownpersonshown]()
+![fourth_Unkownpersonshown](https://github.com/mdabdulmusavvir/University_of_North_Texas_Attendance_11829107/blob/2fc19ef642d103a58603790414abe0805737fb54/fourth_Unkownpersonshown.png)
 <br>
 5. Email has been sent successfully with the attachment and it will quit the program by using the q word on keyboard<br><br>
-![fifth_emailsendsuccessfullyandquit]()
+![fifth_emailsendsuccessfullyandquit](https://github.com/mdabdulmusavvir/University_of_North_Texas_Attendance_11829107/blob/2fc19ef642d103a58603790414abe0805737fb54/fifth_emailsendsuccessfullyandquit.png)
 <br>
 6. see the email which was shared<br><br>
-![sixth_emailsentwithattachment]()
+![sixth_emailsentwithattachment](https://github.com/mdabdulmusavvir/University_of_North_Texas_Attendance_11829107/blob/2fc19ef642d103a58603790414abe0805737fb54/sixth_emailsentwithattachment.png)
 <br><br>
 #setup
 <br><br>
